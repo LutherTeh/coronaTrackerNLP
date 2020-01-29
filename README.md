@@ -2,7 +2,7 @@
 corona tracker related news ( name entities + sentiment ) for english and chinese
 
 ## steps
-- extact data from MySQL DB (which contains news )
+- extact data from MySQL (which contains news )
 - run text processing and name entity extraction, sentiment analysis
 - save the result to MySQL
 
