@@ -1,4 +1,4 @@
-# coronaTrackerNLP ( 1st draft version)
+# coronaTrackerNLP ( ver1.0)
 corona tracker related news ( name entities + sentiment ) for english and chinese
 
 ## steps
