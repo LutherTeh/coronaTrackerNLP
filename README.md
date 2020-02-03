@@ -8,6 +8,10 @@ corona tracker related news ( name entities + sentiment ) for english and chines
 
 
 ## demo tableau dashboard link
+![CoronaTracker EntitiesSentiment](/images/coronaTracket-EntitiesSentiment.png)
+
+
+
 https://public.tableau.com/profile/lutherteh#!/vizhome/coronaTrackerNLPEntitiesSentiment/CoronaTrackerEntitiesSentiment
 
 ## reference 
